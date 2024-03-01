@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hellow 👋
 
 <!--
 **gdaume24/gdaume24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am an AI developer, I did my work-study program at CHU of Caen.
+During this period, I did a lot of data ingineering, application development, and AI to extract datas from raw text.
+
+As a masterpiece project for school, I did an application to predict if the user needs a mental health treatment based on a survey.
+
+I aim to find a job as a full stack ingineer.
