@@ -15,9 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am an AI developer, I did my work-study program at CHU of Caen.
+I am an AI developer, I did my work-study program at CHU de Caen.
 During this period, I did a lot of data ingineering, application development, and AI to extract datas from raw text.
 
 As a masterpiece project for school, I did an application to predict if the user needs a mental health treatment based on a survey.
 
-I aim to find a job as a full stack ingineer.
+I'm now working for 2CConseil in Paris, for my master degree work-study program.
+I do a master in Full-stack development in Java/Angular. At work, I do a mobile application with react-native and some tests for a website.
