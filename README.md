@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Expert in data ingineering, application development, and AI.
+Software developper, AI skills.
