@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Software developper, AI skills.
+Software developper, I know Java, Angular, Python, and aim to learn more languages and leveraging my coding skills.
