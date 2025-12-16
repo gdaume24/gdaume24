@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm a software developer. I know Java, C#, Angular, and Python, and I am very flexible.
+I'm a software developer in Java, C#, Angular, and Python.
