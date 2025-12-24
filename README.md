@@ -1,6 +1,6 @@
 # Salut, moi c'est Geoffroy ! 👋 
 
-### 🚀 Expert en Développement Logiciel & Intelligence Artificielle (Bac+5)
+### 🚀 Expert en Intelligence Artificielle & Développement Logiciel (Bac+5)
 *Passionné par l'automatisation, la Clean Architecture et la résolution de problématiques complexes.*
 
 ---
