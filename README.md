@@ -11,7 +11,6 @@ I am a Full-Stack Software Engineer specializing in Java/Spring and .NET ecosyst
 Through my professional experiences (CHU Caen, 2CConseil), I have developed strong autonomy—from designing robust architectures to secure production deployment.  
 
 I excel at simplifying complex technical concepts to transform them into concrete business solutions.  
-<br>
 
 ---
 
