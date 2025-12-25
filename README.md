@@ -105,15 +105,15 @@ I excel at simplifying complex technical concepts to transform them into concret
 ## 📂 Featured Projects
 
 ### 🤖 AI Automation Hub
-*An intelligent recruitment pipeline powered by AI agents.*
+*Automating the job application process with AI agents.*
 * **The Project:** An advanced **n8n** infrastructure using **OpenAI agents** to bridge the gap between candidate profiles (Google Docs) and job descriptions.
 * **Key Features:** Automated generation of hyper-personalized resumes and cover letters using RAG concepts to ensure perfect alignment with specific job requirements.
-* **Tech Stack:** `n8n` `OpenAI API` `Google Workspace API` `Automation`
+* **Tech Stack:** `n8n` `OpenAI API` `Google Workspace API` `Gotenberg (PDF Generation)` `Prompt Engineering`
 
 ---
 
 ### 🎵 Music & Data Uploader
-*Automated content management system for large-scale media sync.*
+*Automation of music uploading to a music sales application*
 * **The Project:** A high-performance **Python** automation suite designed for mass-uploading music libraries to online platforms.
 * **Key Features:** Built a custom **Tkinter** GUI for seamless folder management and implemented complex **Selenium** scraping logic to handle dynamic web uploads and data synchronization.
 * **Tech Stack:** `Python` `Selenium` `Tkinter` `Web Scraping`
