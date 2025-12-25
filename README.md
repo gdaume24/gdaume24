@@ -102,10 +102,32 @@ I excel at simplifying complex technical concepts to transform them into concret
 
 ---
 
-## 📂 Featured Projects
-* **[AI Automation Hub]**: A complex **n8n** infrastructure using AI agents to automate personalized document generation and complex data workflows.
-* **[Music & Data Uploader]**: High-performance **Python & Selenium** automation tool with a custom **Tkinter** GUI for bulk file management.
-* **[Full-Stack Enterprise Store]**: Java/Spring & Angular application built with **Clean Architecture**, JWT security, and 80%+ test coverage.
+📂 Featured Projects
+[AI Automation Hub]: Intelligent Recruitment Pipeline
+
+The project: An advanced n8n infrastructure using OpenAI agents to bridge the gap between candidate profiles (Google Docs) and job descriptions.
+
+Key features: Automated generation of hyper-personalized resumes and cover letters, ensuring perfect alignment with specific job requirements through RAG (Retrieval-Augmented Generation) concepts.
+
+Impact: 100% automation of the application tailoring process, significantly increasing conversion rates.
+
+[Music & Data Uploader]: Automated Content Management System
+
+The project: A high-performance Python & Selenium automation suite designed for mass-uploading music libraries to online platforms.
+
+Key features: Built a custom Tkinter GUI for seamless folder management, implemented complex web scraping logic to handle dynamic uploads, and managed large-scale file synchronization.
+
+Impact: Transformed a manual, hours-long task into a "one-click" automated background process.
+
+[Full-Stack Enterprise Ecosystems]: Production-Grade Architectures
+
+The projects: Two enterprise-level applications demonstrating mastery of professional software standards.
+
+Java/Spring & Angular: A developer-focused platform for article sharing, featuring JWT security, high-level abstraction, and 80%+ unit test coverage.
+
+.NET & Angular: A robust CRM/Ordering system focused on business logic, secure data management, and Clean Architecture.
+
+Impact: Proven ability to deliver secure, scalable, and maintainable software ready for industrial deployment.
 
 ## Contact me 📩
 * 💼 **LinkedIn**: [in/geoffroy94](https://www.linkedin.com/in/geoffroy94/)
