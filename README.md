@@ -87,7 +87,8 @@ I excel at simplifying complex technical concepts to transform them into concret
 ![Prettier](https://img.shields.io/badge/prettier-1A2C37?style=for-the-badge&logo=prettier&logoColor=F7BA3E) 
 
 ![SOLID](https://img.shields.io/badge/Principles-SOLID-SSG?style=for-the-badge&color=007acc) 
-![Clean Architecture](https://img.shields.io/badge/Architecture-Clean-SSG?style=for-the-badge&color=28a745) 
+![Clean Architecture](https://img.shields.io/badge/Architecture-Clean%20Architecture-28a745?style=for-the-badge) 
+![Design Patterns](https://img.shields.io/badge/Design%20Patterns-Expert-ffca28?style=for-the-badge)
 ![DRY/KISS](https://img.shields.io/badge/Best_Practices-DRY_%2F_KISS-SSG?style=for-the-badge&color=ffca28&logoColor=black)
 
 ### IDE 🖥️
