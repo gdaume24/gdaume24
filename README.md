@@ -102,32 +102,29 @@ I excel at simplifying complex technical concepts to transform them into concret
 
 ---
 
-📂 Featured Projects
-[AI Automation Hub]: Intelligent Recruitment Pipeline
+## 📂 Featured Projects
 
-The project: An advanced n8n infrastructure using OpenAI agents to bridge the gap between candidate profiles (Google Docs) and job descriptions.
+### 🤖 AI Automation Hub
+*An intelligent recruitment pipeline powered by AI agents.*
+* **The Project:** An advanced **n8n** infrastructure using **OpenAI agents** to bridge the gap between candidate profiles (Google Docs) and job descriptions.
+* **Key Features:** Automated generation of hyper-personalized resumes and cover letters using RAG concepts to ensure perfect alignment with specific job requirements.
+* **Tech Stack:** `n8n` `OpenAI API` `Google Workspace API` `Automation`
 
-Key features: Automated generation of hyper-personalized resumes and cover letters, ensuring perfect alignment with specific job requirements through RAG (Retrieval-Augmented Generation) concepts.
+---
 
-Impact: 100% automation of the application tailoring process, significantly increasing conversion rates.
+### 🎵 Music & Data Uploader
+*Automated content management system for large-scale media sync.*
+* **The Project:** A high-performance **Python** automation suite designed for mass-uploading music libraries to online platforms.
+* **Key Features:** Built a custom **Tkinter** GUI for seamless folder management and implemented complex **Selenium** scraping logic to handle dynamic web uploads and data synchronization.
+* **Tech Stack:** `Python` `Selenium` `Tkinter` `Web Scraping`
 
-[Music & Data Uploader]: Automated Content Management System
+---
 
-The project: A high-performance Python & Selenium automation suite designed for mass-uploading music libraries to online platforms.
-
-Key features: Built a custom Tkinter GUI for seamless folder management, implemented complex web scraping logic to handle dynamic uploads, and managed large-scale file synchronization.
-
-Impact: Transformed a manual, hours-long task into a "one-click" automated background process.
-
-[Full-Stack Enterprise Ecosystems]: Production-Grade Architectures
-
-The projects: Two enterprise-level applications demonstrating mastery of professional software standards.
-
-Java/Spring & Angular: A developer-focused platform for article sharing, featuring JWT security, high-level abstraction, and 80%+ unit test coverage.
-
-.NET & Angular: A robust CRM/Ordering system focused on business logic, secure data management, and Clean Architecture.
-
-Impact: Proven ability to deliver secure, scalable, and maintainable software ready for industrial deployment.
+### 🏛️ Full-Stack Enterprise Ecosystems
+*Production-grade architectures for business-critical applications.*
+* **Java/Spring & Angular:** A developer platform for article sharing, featuring **JWT security**, high-level abstraction, and 80%+ test coverage with **JUnit/Mockito**.
+* **.NET & Angular:** A robust CRM and Ordering system focused on **Clean Architecture**, secure data management with **SQL Server**, and industrial coding standards.
+* **Tech Stack:** `Java` `Spring Boot` `.NET Core` `Angular` `PostgreSQL` `Clean Architecture`
 
 ## Contact me 📩
 * 💼 **LinkedIn**: [in/geoffroy94](https://www.linkedin.com/in/geoffroy94/)
