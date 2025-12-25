@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Geoffroy Daumer
 
-### 🚀 Software Engineering & AI Expert (Master's Degree)
+### 🚀 Software Engineering & AI Expert
 *Passionate about Automation, Clean Architecture, and solving complex business problems.*
 
 ---
